@@ -16,7 +16,6 @@ jaraco.functools
 jaraco.text
 kazam
 more-itertools
-nftables==0.1
 orjson
 packaging
 pillow
