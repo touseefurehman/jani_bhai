@@ -5,7 +5,7 @@ btrfsutil
 cffi
 colorama
 cryptography
-cupshelpers
+# cupshelpers
 dbus-python
 defusedxml
 distro
