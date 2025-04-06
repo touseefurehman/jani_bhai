@@ -16,7 +16,6 @@ jaraco.functools
 jaraco.text
 kazam
 more-itertools
-netsnmp-python
 nftables
 orjson
 packaging
