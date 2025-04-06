@@ -1,5 +1,4 @@
 annotated-types==0.7.0
-attrs==23.2.1.dev0
 autocommand==2.2.2
 btrfsutil==6.13
 cffi==1.17.1
@@ -38,7 +37,6 @@ pyxdg==0.28
 PyYAML==6.0.2
 Reflector==2023.6.28.0.36.1
 setuptools==75.8.0
-shtab==1.7.2.dev0+g61ec99d.d20241116
 smbus==1.1
 TBB==0.2
 termcolor==2.5.0
