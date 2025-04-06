@@ -6,8 +6,7 @@ cffi
 colorama
 cryptography
 # cupshelpers
-dbus-python
-defusedxml
+# defusedxml
 distro
 filelock
 Glances
